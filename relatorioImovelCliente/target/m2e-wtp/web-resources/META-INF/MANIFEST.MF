@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 80114504504
+Build-Jdk: 1.7.0_51
+Implementation-Title: 
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.gov.serpro
+Implementation-Vendor: SERPRO - Serviço Federal de Processamento de D
+ ados
+Created-By: Maven Integration for Eclipse
+

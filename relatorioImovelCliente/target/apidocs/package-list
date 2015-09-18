@@ -1,0 +1,5 @@
+br.gov.serpro.relatorioImovelCliente.business
+br.gov.serpro.relatorioImovelCliente.domain
+br.gov.serpro.relatorioImovelCliente.persistence
+br.gov.serpro.relatorioImovelCliente.view
+br.gov.serpro.relatorioImovelCliente.ws
